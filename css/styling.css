@@ -1,0 +1,267 @@
+body{
+background: white url("/imagenes/samsung-logo-rcm300x0.jpg") repeat-x top center;
+line-height: 1;
+font-size: 14px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+margin: 0;
+padding: 0;
+}
+
+#header {
+    background: black;
+    margin: 0 auto;
+    padding: 0;
+    height: 300px;
+}
+
+
+#header .section .lg a{
+    color: white;
+    display: block;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 60px;
+    font-weight: normal;
+    height: 100px;
+    margin: 0;
+    padding: 0;
+    text-align: justify;
+    text-decoration: none;
+    text-transform: uppercase;
+    width: 270px;
+}
+
+#header .section ul{
+    display: inline-block;
+    float: right;
+    margin: 0;
+    overflow: hidden;
+    padding: 114px 0 0;
+}
+
+#header .section ul li {
+    display: inline-block;
+    float: left;
+    list-style: none;
+    margin: 0 10px;
+    padding: 0;
+}
+
+#header .section ul li a{
+    display: inline-block;
+    font-size: 16px;
+    height: 30px;
+    letter-spacing: 0.05em;
+    line-height: 30px;
+    margin: 0;
+    padding: 0 15px;
+    text-align: justify;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+#header .section ul li a:hover{
+    color:white;
+}
+
+#header .article img{
+    display: block;
+    float: left;
+    margin: 0 50px 0 0;
+    padding: 0;
+}
+
+#header .article h1{
+    color:black;
+    font-family: cursive;
+    font-size: 40px;
+    font-weight: normal;
+    margin: 0;
+    line-height: 50px;
+    padding: 110px 30px 30px;
+}
+
+#body{
+    margin: 0 auto;
+    min-height: 812px;
+    padding: 20px 0 50px;
+    width: 960px;
+}
+
+#body > ul{
+    margin: 0;
+    overflow: hidden;
+    padding: 0;
+}
+
+#body > ul li {
+    text-align: center;
+    list-style: none;
+    margin: 0 50px;
+    width: 900px;
+}
+
+#body > ul li > a {
+    display: block;
+    margin: 0;
+    padding: 5px 5px 29px;
+}
+
+#body > ul li > a:hover {
+    opacity: 0.9;
+}
+
+#body > ul li > a img{
+    border: 0;
+    display: block;
+    margin: 0;
+    padding: 0;
+}
+
+#body  > ul li b {
+    color: black;
+    display: block;
+    font-size: 12px;
+    line-height: 24px;
+    margin: 0;
+    padding: 0;
+}
+
+#body div .feature h2 {
+    text-align: center;
+
+}
+
+#body div .featured img{
+    display: block;
+    float: justify;
+    margin: 10px 30px 25px 0;
+    padding: 0;
+}
+
+#body div .section {
+    width:460px;
+}
+
+#body div .section .article h2{
+    text-align:justify;
+}
+
+#footer {
+	background:black;
+	margin: 0;
+	padding: 0;
+}
+
+#footer > div {
+	margin: 0 auto;
+	padding: 30px 0 28px;
+	overflow: hidden;
+	text-align: center;
+	width: 960px;
+}
+
+#footer div p {
+	color: #ededed;
+	display: inline-block;
+	float: right;
+	font-size: 12px;
+	letter-spacing: 0.05em;
+	margin: 0;
+	padding: 27px 0 0;
+	text-align: center;
+}
+
+#footer div .connect {
+	float: right;
+	height: 18px;
+	margin: 0 20px 0 150px;
+	padding: 22px 20px;
+	overflow: hidden;
+	width: 144px;
+}
+
+#footer div .connect span {
+	color: white;
+	display: inline-block;
+	float: left;
+	font-size: 12px;
+	height: 19px;
+	line-height: 21px;
+	margin: 0;
+	padding: 0 0 0 39px;
+}
+
+#footer div .connect a {
+	background: url(../images/icons.png) no-repeat;
+	display: block;
+	float: left;
+	height: 20px;
+	margin: 0 8px;
+	padding: 0;
+	text-indent: -99999px;
+	width: 20px;
+    padding-left: 0px;
+}
+
+.row{
+    padding-left: 200px;
+    padding-top: 50px;
+}
+
+.cellSamsung1{
+    margin-top: 200px;
+
+
+}
+
+.news-cards{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    margin: 10px 0;
+
+}
+
+.news-cards img{
+    width: 100%;
+    height: 180px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.news-cards h3{
+    font-size: 20px;
+    margin: 10px 0;
+}
+
+.news-cards a{
+    padding:  10px 0;
+    text-transform: uppercase;
+    display: inline-block;
+    font-weight: bold;
+
+}
+
+.news-cards a:hover{
+    text-decoration: underline;
+}
+
+#BodyStyle img{
+    width: 1311px;
+}
+
+#BodyStyle h2{
+    text-align: center;
+}
+
+#BodyStyle h3{
+    text-align: center;
+}
+
+#BodyStyle p{
+    text-align: center;
+}
+
+#BodyStyle2 h4 p {
+    margin-left: 50px;
+    text-align: justify;
+}
