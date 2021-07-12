@@ -24,27 +24,27 @@
     <div id="header">
         <div class="section">
             <div class="lg">
-                <a href="index.html">Smartphones Samsung</a>
+                <a href="index.php">Smartphones Samsung</a>
             </div>
             <ul>
                 <li class="opcion_seleccionada">
-                    <a href="index.html">Home</a>
+                    <a href="index.php">Home</a>
                 </li>
 
                 <li>
-                    <a href="Telefonos.html">Smartphones</a>
+                    <a href="Telefonos.php">Smartphones</a>
                 </li>
 
                 <li>
-                    <a href="Noticias.html">Noticias</a>
+                    <a href="Noticias.php">Noticias</a>
                 </li>
 
                 <li>
-                    <a href="contactos.html">Contactos</a>
+                    <a href="contactos.php">Contactos</a>
                 </li>
 
                 <li>
-                    <a href="acercaDe.html">Acerca de</a>
+                    <a href="acercaDe.php">Acerca de</a>
                 </li>
             </ul>
         </div>
